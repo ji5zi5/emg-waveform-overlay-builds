@@ -1,2 +1,2 @@
 # emg-waveform-overlay-builds
-EMG Overlay Windows 실행 파일 배포
+과학대제전 전용 webgl 얼불춤 ㅎ
